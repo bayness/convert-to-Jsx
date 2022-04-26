@@ -1,0 +1,10 @@
+
+
+
+.divClass{
+
+  border:solid 3px blue;
+  max-width:80vw;
+  margin: 50px;
+  text-align: center;
+}
